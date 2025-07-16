@@ -8,8 +8,8 @@
 
 - Programming: Python, Java, C#, JavaScript
 - AI/ML: Scikit-learn, OpenCV, Flask, HOG, LBP
-- Database: SQL Server, Firebase
-- Tools: Git, GitHub, VS Code
+- Database: SQL Server, Firebase, MongoDB
+- Tools: Git, GitHub, VS Code, Pycharm
 
 ## 📫 Contact
 
